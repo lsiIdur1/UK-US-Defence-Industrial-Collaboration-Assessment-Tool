@@ -1,0 +1,2 @@
+# UK-US-Defence-Industrial-Collaboration-Assessment-Tool
+DICAS is a Streamlit-based tool for generating UK–US defence industrial collaboration assessments, including policy briefs, risk analysis, and strategic opportunity matrices from user-provided text inputs. This project uses mock and publicly generated data only. It does not contain or process any proprietary or sensitive information or concepts.
